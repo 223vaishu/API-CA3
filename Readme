@@ -1,0 +1,23 @@
+**Treat craft**
+Treat craft welcomes you! This is a website where you can finds various different varitey of food from all around world. Where culinary delights meets digital indulgence. Immerse yourself in world of flavors,where each pages unfolds a gastronomice journey. Join us as we celebrate the art of food and share the joy of equisite dining experiences. Your delectable advaenture begain here.
+
+**Usages**
+Here at first you can see a website logo and also a welcoming title and paragraph.
+Then you can see a search bar where you can search for some category like vegan,breakfast,chicken...etc.
+Then below search bar you can see a random images when you click on 
+random image you can see list of ingerdients.
+Also when you search for a any food it will get displayed below random images.
+
+**screenshots**
+![Alt text](Website.png)
+![Alt text](<Screenshot 2023-12-20 101254.png>)
+
+![Alt text](<Screenshot 2023-12-20 101307.png>)
+![Alt text](<Screenshot 2023-12-20 101331-1.png>)
+
+**Also in reponsive view user should zoom out the screen for proper view**
+
+**Website used**
+API from  TheMealDB
+Fonts from google fonts
+W3School

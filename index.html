@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Treat craft</title>
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo-title">
+            <img id="logo" src="./treat.jpg">
+            <h1>𝕿𝖗𝖊𝖆𝖙 𝕮𝖗𝖆𝖋𝖙 𝖜𝖊𝖑𝖈𝖔𝖒𝖊𝖘 𝖚...</h1>
+            <p>Welcome to 𝕿𝖗𝖊𝖆𝖙 𝕮𝖗𝖆𝖋𝖙! Where culinary delights meets digital indulgence. Immerse yourself in world of flavors,where each pages unfolds a gastronomice journey. Join us as we celebrate the art of food and share the joy of equisite dining experiences. Your delectable advaenture begain here<br> Treat cafe!</p>
+
+            
+        </div>
+        <div class="search">
+            <input id="search-bar" type="text" placeholder="Search your menu..." name="search">
+            <button id="submit" onclick="searchImages()">Search</button>
+        </div>
+    </div>
+    <div class="randomimage">
+        <img id="random-image" >
+        <p id="image-name"></p>
+    </div>
+
+    <div id="modal">
+        <img width="30px" id="closeBtn" src="close.jpg" alt="">
+        <h2>Ingredients</h2>
+        <ol id="Ingredients"></ol>
+    </div>
+    <h3>Your search results:</h3>
+    <div  id="search-results">
+
+    </div>
+
+
+    <div id="carousel">
+        <img src="./Chicken-Salad.jpg" id="food-image">
+        <h2 id="food-name">chicken salad</h2>
+    </div>
+
+
+</body>
+<script src="app.js"></script>
+</html>
